@@ -22,7 +22,7 @@ The dashboard allows educators to view:
 ---
 
 ## 🧩 Project Structure
-
+```
 stay-the-course-ui/
 │
 ├── src/
@@ -46,7 +46,7 @@ stay-the-course-ui/
 ├── postcss.config.js # PostCSS setup
 ├── package.json # NPM dependencies
 └── vite.config.js # Vite build configuration
-
+```
 
 
 ---
@@ -82,9 +82,10 @@ Then visit:
 ```
 http://localhost:5173/
 ```
+---
 ## 🔗 Linked Backend
 This dashboard connects to the backend AI/data repository here:
-👉 Stay the Course AI Data
+👉 [Stay the Course AI Data](https://github.com/ncvictorious/stay-the-course-ai-data)
 
 The integration pipeline will eventually allow live visualization of model predictions such as:
 
@@ -93,13 +94,13 @@ Student risk probabilities
 Academic improvement scores
 
 Intervention progress tracking
-
-🧑‍💻 Author
+---
+## 🧑‍💻 Author
 Victor Chibueze Nwaobi
 Data Scientist & Engineer
 GitHub – ncvictorious
-
-🧭 Next Steps
+---
+## 🧭 Next Steps
 Hand over to a UI/UX developer for advanced front-end enhancements
 
 Integrate backend API for live AI-driven analytics
