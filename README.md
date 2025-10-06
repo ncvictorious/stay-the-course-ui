@@ -96,18 +96,20 @@ Academic improvement scores
 Intervention progress tracking
 ---
 ## 🧑‍💻 Author
+
 Victor Chibueze Nwaobi
 Data Scientist & Engineer
 GitHub – ncvictorious
+
 ---
 ## 🧭 Next Steps
--Hand over to a UI/UX developer for advanced front-end enhancements
+Hand over to a UI/UX developer for advanced front-end enhancements
 
--Integrate backend API for live AI-driven analytics
+Integrate backend API for live AI-driven analytics
 
--Add authentication and user management
+Add authentication and user management
 
--Prepare for deployment (Netlify / Vercel)
+Prepare for deployment (Netlify / Vercel)
 
 ---
 
