@@ -1,5 +1,8 @@
 # Stay the Course – AI for Education (Dashboard UI)
 
+![Stay the Course Dashboard UI](./dashboard-ui.png)
+
+
 **React + Tailwind CSS dashboard prototype**  
 Visualization layer for the *Stay the Course* AI Early Warning System.
 
