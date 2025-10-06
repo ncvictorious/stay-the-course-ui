@@ -71,16 +71,16 @@ stay-the-course-ui/
 
 2. Install dependencies
 ```
-npm install
+   npm install
 ```
 3. Run locally
 ```
 
-npm run dev
+   npm run dev
 ```
-Then visit:
+   Then visit:
 ```
-http://localhost:5173/
+   http://localhost:5173/
 ```
 ---
 ## 🔗 Linked Backend
@@ -101,13 +101,14 @@ Data Scientist & Engineer
 GitHub – ncvictorious
 ---
 ## 🧭 Next Steps
-Hand over to a UI/UX developer for advanced front-end enhancements
+-Hand over to a UI/UX developer for advanced front-end enhancements
 
-Integrate backend API for live AI-driven analytics
+-Integrate backend API for live AI-driven analytics
 
-Add authentication and user management
+-Add authentication and user management
 
-Prepare for deployment (Netlify / Vercel)
+-Prepare for deployment (Netlify / Vercel)
+
 ---
 
 Part of the AI for Education portfolio: “Stay the Course – Early Warning for Student Success.”
